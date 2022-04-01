@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter Schütt
-- 👀 I’m interested in Java, SQL-Databases, Kafka, ElasticSearch, Song-Writing, ...
+- 👀 I’m interested in Java, SQL-Databases, Kafka, ElasticSearch, songwriting, ...
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on something interesting.
 - 📫 How to reach me: github@pstt.de
